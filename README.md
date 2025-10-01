@@ -80,7 +80,7 @@ java App
 ###  Sample Output  
 
 ```
->>>>>>> 74cb6ec (Updated README.md with correct structure and run instructions)
+
 Astronaut Daily Schedule Organizer (type 'help' for commands)
 
 > help
@@ -90,7 +90,7 @@ Commands:
   remove <Task Name>
   done <Task Name>
   exit
-<<<<<<< HEAD
+
 
 # Repository Structure
 =======
@@ -101,7 +101,7 @@ Commands:
 ##  Repository Structure  
 
 ```
->>>>>>> 74cb6ec (Updated README.md with correct structure and run instructions)
+
 coding_assignment/
 │
 ├── astronaut-scheduler/       # Astronaut Daily Scheduler Project
@@ -114,13 +114,10 @@ coding_assignment/
 │   ├── structural/
 │
 └── README.md                  # Project Documentation
-<<<<<<< HEAD
 
- **Note**
 
-This repository is created only for educational and learning purposes.
-Not intended for production use.
-=======
+ 
+
 ```
 
 ---
