@@ -7,6 +7,7 @@ patterns – Exercise 1 with design pattern demos.
 astronaut-scheduler – Exercise 2 starter code for the Astronaut Daily Schedule Organizer.
 
 **Exercise 1: Design Patterns in Java**
+
 Description
 
 This module demonstrates the implementation of three categories of design patterns in Java:
@@ -20,17 +21,18 @@ Behavioral (e.g., Strategy, Observer)
 Each pattern is implemented with simple examples to understand usage and benefits.
 
 **How to Run**
-# 1. Clone the repository
+** 1. Clone the repository **
 git clone https://github.com/Abinaya611/coding_assignment.git
 cd coding_assignment
 
-# 2. Move into patterns project
+** 2. Move into patterns project **
 cd patterns
 
-# 3. Compile any pattern demo, e.g., Singleton
+** 3. Compile any pattern demo **
+e.g., Singleton
 javac creational/Singleton.java
 
-# 4. Run the program
+**4. Run the program **
 java creational.Singleton
 
 # Sample Output
@@ -64,16 +66,18 @@ Remove tasks from the schedule
 Simple command-line interface
 
 # How to Run
-# 1. Move into astronaut-scheduler project
+**1. Move into astronaut-scheduler project**
 cd astronaut-scheduler
 
-# 2. Compile the main program
+** 2. Compile the main program**
+
 javac App.java
 
-# 3. Run the program
+** 3. Run the program**
+
 java App
 
-# Sample Output
+** Sample Output **
 Astronaut Daily Schedule Organizer (type 'help' for commands)
 
 > help
